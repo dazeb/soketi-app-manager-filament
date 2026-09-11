@@ -3,7 +3,7 @@
 Simple frontend for [Soketi](https://soketi.app/) websocket server with a intuitive user interface. Made with [FilamentPHP](https://filamentphp.com/) and 💕
 
 **Soketi App Manager** provides a user-friendly interface for managing your Soketi websocket applications. You can effortlessly manage multiple websocket applications, streamlining your app management process. The whole setup process is made simpler so that anyone can easily get started with the Soketi websocket server. 🚀 It currently features -
-- Dashboard to show realtime server stats and app connections.
+- Dashboard to show realtime Soketi server resource consumption.
 - Dashboard to show realtime Soketi application connections.
 - Create and manage (serve, view, edit, delete and filter) multiple Soketi applications.
 - Automatic soketi application cache management.
